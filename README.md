@@ -28,12 +28,12 @@ After setting up the required databases, run `rackup` in the command line to sta
 Technologies used
 -----
 * Ruby
+* SQL
+* HTML
+* CSS
 * Sinatra
 * Capybara
 * Rack
-* SQL
 * Postgres
-* HTML
-* CSS
 * Simplecov
 * Rubocop
