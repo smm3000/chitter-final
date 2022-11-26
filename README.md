@@ -1,13 +1,13 @@
 
-**Objective**
+Objective
 -----
 The purpose of this project is to create a Twitter-like application. 
 
-**How To Run This Program **
+How To Run This Program
 -----
 * Run `bundle install` in the command line to ensure that all the relevant gems and dependencies are installed.
 
-**How To Set Up The Database**
+How To Set Up The Database
 -----
 
 1. Connect to psql
